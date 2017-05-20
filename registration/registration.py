@@ -1,0 +1,1 @@
+print "registration logic will come here"
